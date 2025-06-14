@@ -7,10 +7,8 @@ A classic **Snake Game** made using **Python's Tkinter library**. The game featu
 ## 🎮 Screenshot
 
 
+![Snake Game Demo](./snake_game.png)
 
-```md
-![Snake Game Demo](./snake%20game.png)
-```
 
 ---
 
